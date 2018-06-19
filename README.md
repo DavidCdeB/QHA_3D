@@ -28,7 +28,7 @@ developed as part of my PhD project at [Prof. Nicholas Harrison's Computational 
 
 Please cite the following reference when using this code:
 
-Carrasco-Busturia, D., Harrison, N. M. et al "Computed phase stability and phase transition mechanisms in CaCO3 at finite temperature and pressure" _In progress_
+Carrasco-Busturia, D., Harrison, N. M. _et al_ "Computed phase stability and phase transition mechanisms in CaCO3 at finite temperature and pressure" _In progress_
 
 
 <a name="example3"></a>

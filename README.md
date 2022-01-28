@@ -4,8 +4,8 @@
 <!-- - [What is the QHA program ?](#WhatisQHA)
 - [What is the quasi-harmonic approximation ?](#Whatisquasi) -->
 1. [What is the `QHA_3D` program ?](#example)
-2. [How to cite](#example9)
-3. [Contributing](#example9)
+2. [How to cite](#example2)
+3. [Contributing](#example3)
 
 <a name="example"></a>
 # What is the `QHA_3D` program ?
